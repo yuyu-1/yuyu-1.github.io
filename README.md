@@ -1,2 +1,2 @@
-# yuyu-1.github.io
+# yuyuscode.github.io
 This is a test page
